@@ -26,5 +26,18 @@ for (let i = 0; i < blockchain.length; i++) {
   );
 }
 
+// function yell(words) {
+//   return `${words.toUpperCase()}!!!!!`
+// }
+
+// function makeFullName(firstName, lastName) {
+//   return `${firstName} ${lastName}`
+// }
+
+// function yellPlayerName(firstName, lastName) {
+//   let fullName = makeFullName(firstName, lastName)
+//   let yelled = yell(fullName)
+//   return yelled
+// }
 
 // JavaScript console
