@@ -18,12 +18,12 @@ async function pageLoaded() {
 
   // writes the returned JSON to the console
   console.log(json)
-  
+
   // 🔥 start here: write code to loop through the products; each
   // iteration of the loop should call your renderProduct function
   // make it work first; then extract to the separate renderProduct
   // function after it's 100% working without it
-  
+
 }
 
 window.addEventListener('DOMContentLoaded', pageLoaded)
